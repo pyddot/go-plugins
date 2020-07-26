@@ -1,4 +1,4 @@
-module github.com/micro/go-plugins/registry/consul/v2
+module github.com/pyddot/go-plugins/registry/consul/v2
 
 go 1.13
 
